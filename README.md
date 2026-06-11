@@ -330,21 +330,6 @@ Before uploading to GitHub, consider updating:
 - optional badges for CI, license, and Python version,
 - real benchmark adapters if data licensing permits release.
 
----
-
-## Citation
-
-If this repository helps your work, please cite the corresponding paper:
-
-```bibtex
-@inproceedings{onlinecausalrca2026,
-  title     = {Online Causal-Graph Maintenance and Interactive Querying for Root-Cause Analysis in Microservice Systems},
-  author    = {Anonymous Authors},
-  booktitle = {Proceedings of the IEEE International Conference on Data Engineering},
-  year      = {2026},
-  note      = {Public reference implementation}
-}
-```
 
 ---
 
