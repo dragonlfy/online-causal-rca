@@ -1,6 +1,4 @@
-# OnlineCausalRCA
-
-Public reference implementation for **Online Causal-Graph Maintenance and Interactive Querying for Root-Cause Analysis in Microservice Systems**.
+# OnlineCausalRCA: Maintaining Queryable Fault-Propagation Graphs for Interactive Multimodal Microservice DiagnosisA
 
 OnlineCausalRCA treats service-fault causality as an **online maintained data structure** rather than an offline model that must be rebuilt after every topology change. The repository implements the core mechanisms described in the paper:
 
